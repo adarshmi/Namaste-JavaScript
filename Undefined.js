@@ -9,3 +9,4 @@ if(a===undefined){
 
 //x is  Not defined
 console.log (x)
+console.log (x)
